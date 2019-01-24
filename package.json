@@ -1,0 +1,22 @@
+{
+  "name": "image-view",
+  "version": "0.0.1",
+  "description": "基于electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liuhuo1/image-view.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuhuo1/image-view/issues"
+  },
+  "homepage": "https://github.com/liuhuo1/image-view#readme",
+  "devDependencies": {
+    "electron": "^4.0.2"
+  }
+}
